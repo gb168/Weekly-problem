@@ -1,3 +1,4 @@
+#问题1
 def func(x,list):
     total=0     #初始加和
     num=0       #初始可购买商品数
@@ -16,6 +17,7 @@ print(func(10,[5,10,3,2]))
 print(func(2,[3,8,10]))
 print(func(24,[3,8,10]))
 
+＃问题2
 def f(a):
     a=list(range(1,a+1))    #转化为list
     k=-1                    #初始化循环数
